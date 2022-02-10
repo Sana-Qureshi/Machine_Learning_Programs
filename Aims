@@ -1,4 +1,17 @@
-Lab1 -  Introduction to various datasets provided with sklearn and keras : Structured Vs unstructured data, iris dataset, olivetti faces dataset, 
-MNIST dataset, CIFAR-10 dataset and <any other datasets being used in the labs>
+Lab1 -  Introduction to various datasets provided with sklearn and keras : Structured Vs unstructured data, iris dataset, olivetti faces dataset,MNIST dataset, CIFAR-10 dataset and <any other datasets being used in the labs>
 
 Lab2 - Implementation of linear regression.
+
+Lab3 - Implementation of Logistic regression.
+
+Lab4 - Write a program to implement KNearest Neighbor algorithm to classify the object. Use an appropriate dataset for classification.
+
+Lab5 - Write a program to implement the naïve Bayesian classifier for sample training data set.
+
+Lab6 - Write a program to construct a Bayesian network considering medical data. Use this model to demonstrate the diagnosis of heart patients using a standard Heart Disease Data Set.
+
+Lab7 - Write a program to calculate the distance between objects using any one distance calculation method.
+
+Lab8 - Write a program to implement KMeans algorithm. Use an appropriate data set for clustering.
+
+Lab9 - Implementation of SVM(Weather forecasting/Imagesegmentation etc)
