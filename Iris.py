@@ -1,0 +1,10 @@
+import pandas as pd
+data = pd.read_csv("iris_csv.csv")
+print("Data-head values:\n",data.head())
+# print(data.sample(10))
+print("\nData-Column values:\n",data.columns)
+print("\nData:\n",data)
+sum_data = data["sepallength"].sum()
+mean_data = data["sepallength"].mean()
+median_data = data["sepallength"].median()
+print("Sum:",sum_data, "\nMean:", mean_data, "\nMedian:",median_data)
